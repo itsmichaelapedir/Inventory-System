@@ -1,0 +1,4 @@
+3119,premium honey,Pure Honey,500,1.0
+3834,honey,Bee Propolis,500,1.0
+1292,lip gloss,Beauty products,100,1.0
+6454,lip balm,Beauty products,100,1.0
